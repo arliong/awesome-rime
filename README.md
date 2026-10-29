@@ -55,7 +55,7 @@ rime 輸入方案和配置列表
 - **2** [dzyht/rime_xkyd](https://github.com/dzyht/rime_xkyd) - 星空一道：星空一笔的音+星空键道的形，名之为星空一道
 - **2** [runapp/rime-wubi98char](https://github.com/runapp/rime-wubi98char) - 小狼毫（rime） 五笔98单字方案 源于海峰五笔码表
 - **1** [Reniastyc/RIME_array30_ex](https://github.com/Reniastyc/RIME_array30_ex) - 用於RIME的修改版行列30輸入方案
-- **1** [arliong/rime-cixin-quick](https://github.com/arliong/rime-cixin-quick) - 慈心速成：基於 rime-ms-quick 增強的微軟傳統排位速成，還原 XP 式盲接詞組聯想（Shift+1..9），附候選欄可見聯想與拼音/筆畫反查（候選自動註速成碼），63,000 詞組
+- **1** [arliong/rime-cixin-quick](https://github.com/arliong/rime-cixin-quick) - 慈心速成：基於 rime-ms-quick （MIT）增強的微軟傳統排位速成，還原 XP 式盲接詞組聯想（Shift+1..9），附候選欄可見聯想與拼音/筆畫反查；完整 84,999 條碼表隨包分發，可 plum 一鍵安裝
 - **1** [dzyht/rime_xkyb](https://github.com/dzyht/rime_xkyb) - 星空一笔：吅吅大山的星空一笔输入方案 for RIME
 - **1** [lotem/rime-linguistic-wubi](https://github.com/lotem/rime-linguistic-wubi) - Rime 輸入方案：學界專供大字符集五筆字型輸入法
 - **0** [PokeGuys/rime-simplex](https://github.com/PokeGuys/rime-simplex) - Windows版速成输入方案，码表源自Yahoo奇摩输入法
